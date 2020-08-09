@@ -28,5 +28,3 @@
 - - Huge Skiier! I always try to go at least once a year!
 - - I love all sorts of games; video-games, board-games, etc
 - - My favorite fighting game is: SSBU
-- - I play marth. 
--->
