@@ -4,8 +4,8 @@
 - Portfolio Website to show my Work
 
 🌱 I’m currently learning
-- Redux React Hooks
-- Unit Testing (Jest)
+- Python
+- C#
 
 👯 I’m looking to collaborate on ...
 - A project that allows for full stack development, and takes breaks to promote learning new technologies.
@@ -18,9 +18,9 @@
 💬 Ask me about ...
 - Point of Sale systems and PCI Compliance.
 - Databases (T-SQL, MongoDB)
-- Javascript; Base, Jquery, Frameworks, etc.
-- Unit Testing
-- Maintaining/Converting Legacy Environments (ColdFusion, Angular 1)
+- Javascript; Base, Typesript, Jquery, Frameworks, etc.
+- Unit Testing (Jest, Cypress)
+- Maintaining/Converting Legacy Environments (ColdFusion, Angular 1, Flash)
 - Work Management; Agile (Click-Up, Jira)
 - Command Line; Mac Terminal, PowerShell
 
