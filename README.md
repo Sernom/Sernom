@@ -1,7 +1,7 @@
 ### Hi there 👋 my name is Skylar P. Thames!
 
 🔭 I’m currently working on
-- Portfolio Website to Show my Work
+- Portfolio Website to show my Work
 
 🌱 I’m currently learning
 - Redux React Hooks
